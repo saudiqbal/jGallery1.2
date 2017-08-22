@@ -1,0 +1,14 @@
+body, p, table, tr, td, div, span {
+  font-family: Trebuchet MS, Arial, Helvetica, sans-serif, verdana;
+  font-size: 12px;
+}
+
+a, a:visited {
+  text-decoration: none;
+  color: #336699;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #CC0000;
+}
